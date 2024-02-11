@@ -1,0 +1,14 @@
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Observable\bin\Debug\net7.0\Observable.exe
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Observable\bin\Debug\net7.0\Observable.deps.json
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Observable\bin\Debug\net7.0\Observable.runtimeconfig.json
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Observable\bin\Debug\net7.0\Observable.dll
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Observable\bin\Debug\net7.0\Observable.pdb
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Observable\obj\Debug\net7.0\Observable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Observable\obj\Debug\net7.0\Observable.AssemblyInfoInputs.cache
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Observable\obj\Debug\net7.0\Observable.AssemblyInfo.cs
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Observable\obj\Debug\net7.0\Observable.csproj.CoreCompileInputs.cache
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Observable\obj\Debug\net7.0\Observable.dll
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Observable\obj\Debug\net7.0\refint\Observable.dll
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Observable\obj\Debug\net7.0\Observable.pdb
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Observable\obj\Debug\net7.0\Observable.genruntimeconfig.cache
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\Observable\obj\Debug\net7.0\ref\Observable.dll
